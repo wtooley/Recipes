@@ -1,6 +1,6 @@
 # Guacomole
 ## Ingredients
 	*Avocado
-	*Lemon
+	*Lime
 	*Salt
 ## Instructions
